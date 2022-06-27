@@ -1,0 +1,23 @@
+body {
+
+    color: #b91d22;
+  }
+ 
+ 
+  .jumbotron {
+    background-image: url("images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+p {
+
+color: aliceblue;
+ }
+ #clear-btn {
+ background-color: blue;
+ color: white;
+ }
+ #filter-btn{
+  color: rgb(244, 244, 246);
+  background-color: blue;
+ }
